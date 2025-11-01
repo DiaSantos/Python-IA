@@ -1,0 +1,16 @@
+# Requisitos do Projeto
+
+# Bibliotecas principais
+openai==1.45.0
+
+# Manipulação de dados e arquivos
+pandas==2.2.3
+numpy==1.26.4
+
+# Utilitários e suporte
+requests==2.32.3
+
+# Observação:
+# Este projeto utiliza o LM Studio como servidor local de modelos de linguagem (LLM).
+# Certifique-se de ter o LM Studio instalado e configurado corretamente.
+# O modelo utilizado nos exemplos é o 'google/gemma-3-1b'.
